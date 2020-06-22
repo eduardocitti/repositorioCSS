@@ -118,3 +118,10 @@ form label.checkbox-label input[type=checkbox]{
     bottom: 1px;
     color: blue;
 }
+
+input[type="checkbox"] {
+float: center;   
+width: 5%; 
+height:15px; 
+border: 1px solid black; 
+}
