@@ -120,6 +120,14 @@ form button {
     width: 150px;
 }
 
+h2 button {
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    width: 150px;
+}
+
+
 form label.checkbox-label input[type=checkbox]{
     position: relative;
     vertical-align: midle;
