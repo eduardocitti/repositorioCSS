@@ -63,15 +63,6 @@ header, main, footer{
     border-radius: 10px;
 }
 
-checkbox{
-    background-color: white;
-    padding: 16px 16px;
-    margin: 100px auto;
-    align-items: left;
-    border: 5px solid #CCC;
-    border-radius: 10px;
-}
-
 html, body{
     margin: 0;
 }
