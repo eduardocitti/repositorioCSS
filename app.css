@@ -63,6 +63,15 @@ header, main, footer{
     border-radius: 10px;
 }
 
+.login checkbox{
+    background-color: white;
+    padding: 16px 16px;
+    margin: 100px auto;
+    align-items: left;
+    border: 5px solid #CCC;
+    border-radius: 10px;
+}
+
 html, body{
     margin: 0;
 }
@@ -113,9 +122,8 @@ form button {
 }
 
 form label.checkbox-label input[type=checkbox]{
-//    position: relative;
+    position: relative;
     vertical-align: middle;
-    float: left;
     bottom: 1px;
     color: blue;
 }
