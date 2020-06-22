@@ -102,7 +102,7 @@ form button {
     font-weight: bold;
     font-size: 15px;
     cursor: pointer;
-    width: 100px;
+    width: 150px;
 }
 
 form label.checkbox-label input[type=checkbox]{
