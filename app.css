@@ -113,7 +113,7 @@ form button {
 }
 
 form label.checkbox-label input[type=checkbox]{
-    position: relative;
+//    position: relative;
     vertical-align: middle;
     float: left;
     bottom: 1px;
