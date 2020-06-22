@@ -63,7 +63,7 @@ header, main, footer{
     border-radius: 10px;
 }
 
-.login checkbox{
+checkbox{
     background-color: white;
     padding: 16px 16px;
     margin: 100px auto;
