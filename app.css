@@ -146,6 +146,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  cursor: pointer;
 }
 
 td, th {
@@ -156,4 +157,9 @@ td, th {
 
 tr:nth-child(even) {
   background-color: #3c7bcc;
+}
+
+.selected {
+    background-color: brown;
+    color: #FFF;
 }
